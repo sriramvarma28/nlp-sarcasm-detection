@@ -1,4 +1,4 @@
-# BESSTIE Sarcasm Detection — COMM061 NLP Coursework
+# BESSTIE Sarcasm Detection - COMM061 NLP Coursework
 
 University of Surrey.
 
