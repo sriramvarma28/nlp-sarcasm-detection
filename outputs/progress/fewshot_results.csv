@@ -1,0 +1,7 @@
+#,Variety,True,OrigLoRA_pred,Base_FS,LoRA_FS,Base_ok,LoRA_ok
+1,en-UK,SARC,NOT,NOT,SARC,❌,✅
+2,en-AU,SARC,NOT,NOT,SARC,❌,✅
+3,en-AU,SARC,NOT,NOT,SARC,❌,✅
+4,en-IN,SARC,NOT,SARC,SARC,✅,✅
+5,en-IN,SARC,NOT,SARC,NOT,✅,❌
+6,en-AU,SARC,NOT,NOT,NOT,❌,❌

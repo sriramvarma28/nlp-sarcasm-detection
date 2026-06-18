@@ -1,0 +1,9 @@
+#,Variety,Text,True,Base_pred,Base_ok,LoRA_pred,LoRA_ok
+1,en-UK,Someone walking past carrying a knife planning a random stab...,SARC,NOT,False,SARC,True
+2,en-AU,Love how people think the yellow line is for safety from app...,SARC,NOT,False,SARC,True
+3,en-AU,"Aussies are the scamees, not the scammers",SARC,NOT,False,SARC,True
+4,en-IN,Mitron agar vote karne ke liye bahar aoge to mar denge!! Hin...,SARC,SARC,True,SARC,True
+5,en-IN,I was eating mangoes when I read the news. I think that woul...,SARC,SARC,True,NOT,False
+6,en-AU,He gave you the courtesy of telling you he had to cancel (be...,SARC,NOT,False,NOT,False
+7,en-UK,Nice spot. Food is nice and very reasonably priced. Pool tab...,NOT,NOT,True,NOT,True
+8,en-UK,It is a unique and strange looking sculptural clock mounted ...,NOT,SARC,False,SARC,False

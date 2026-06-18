@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.3.1
+datasets
+transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+peft
+accelerate

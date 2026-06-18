@@ -1,0 +1,14 @@
+train_variety,test_variety,text,true_label,pred_label,error_type
+en-IN,en-UK,I just want that 5 percent of gdp back so we can have nice things again like roads without great pits in them.,1,0,FN
+en-IN,en-UK,"Someone walking past carrying a knife planning a random stabbing - thanks, yea I am awesome.",1,0,FN
+en-AU,en-UK,Knock? Think they just post the card saying they tried and leave the parcel in the van.,1,0,FN
+en-IN,en-AU,Love how people think the yellow line is for safety from approaching trains.,1,0,FN
+en-UK,en-AU,"Aussies are the scamees, not the scammers",1,0,FN
+en-UK,en-AU,Rich families that own houses getting a free reno. Just love to see it.,1,0,FN
+en-UK,en-IN,"Mitron agar vote karne ke liye bahar aoge to mar denge!! Hindu kathre mai hai!!! Isiliye Mai election rokh Raha hu mitron! Ye Mera Naya masterstroke!!
+-probably Modi 2029",1,0,FN
+en-UK,en-IN,"Now we can scan a QR code to send them aid when the Chinese loans have to be paid back, what an idea sirji! /s",1,0,FN
+en-UK,en-IN,I was eating mangoes when I read the news. I think that would be the last time I ever ate mangoes,1,0,FN
+en-IN,en-AU,"He gave you the courtesy of telling you he had to cancel (because sometimes shit comes up at the last minute) instead of just ghosting you, and you went off at him?
+
+Yeah, he ain't contacting you again, he's cut you off for being a psycho.",1,0,FN

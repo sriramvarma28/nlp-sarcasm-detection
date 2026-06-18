@@ -1,0 +1,25 @@
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Gradio
+.gradio/
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Model weights and large artifacts - keep these on Hugging Face
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
